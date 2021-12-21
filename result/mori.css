@@ -1,0 +1,15 @@
+img{
+    max-width: 100%;
+
+}
+.logo{
+    width: 250px;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+p{
+    font-size: 45px;
+    text-align: center;
+    margin-top: 10%;
+
+}
